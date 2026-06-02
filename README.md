@@ -1,4 +1,3 @@
-<img width="2100" height="600" alt="ABL1_pLDDT_plot" src="https://github.com/user-attachments/assets/191c3af9-1629-491a-a36f-68f07a53cfe5" />
 # ABL1 Gene Analysis
 
 ## Overview
@@ -85,5 +84,5 @@ GAAGCTGGTGGGCTGCAAATCCAAGAAGGGGCTGTCCTCGTCCTCCAGCTGTTATCTGGAAGAAGCCCTT]
 - NCBI BLAST
 - AlphaFold EBI Database
 - GNINA Molecular Docking
-- Mol* Viewer<img width="1123" height="702" alt="ABL1_pLDDT_plot png1" src="https://github.com/user-attachments/assets/b9cd8843-a9c8-4c51-a339-b7718a32ede1" />
+- Mol* Viewer>
 
