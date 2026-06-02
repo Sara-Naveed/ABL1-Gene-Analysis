@@ -62,16 +62,16 @@ GAAGCTGGTGGGCTGCAAATCCAAGAAGGGGCTGTCCTCGTCCTCCAGCTGTTATCTGGAAGAAGCCCTT]
 - Receptor: ABL1 kinase (1IEP.pdb)
 - Ligand: Imatinib (Gleevec) - PubChem CID 5291
 - Tool: GNINA molecular docking
-- Best Affinity Score: -9.50 kcal/mol (Mode 9)
+- Best Affinity Score: -7.13 kcal/mol (Mode 6)
 - Strong binding confirmed
 
 ### Docking Results Table
 | Mode | Affinity (kcal/mol) |
 |------|-------------------|
-| 1 | -6.83 |
-| 5 | -7.82 |
-| 6 | -9.39 |
-| 9 | -9.50 |
+| 1 | -7.08 |
+| 5 | -7.13 |
+| 6 | -7.04 |
+| 7 | -6.89 |
 
 <img width="1123" height="702" alt="ABL1_pLDDT_plot png1" src="https://github.com/user-attachments/assets/e5cb3414-8c32-471e-9694-0fc1a91c3a74" />
 
