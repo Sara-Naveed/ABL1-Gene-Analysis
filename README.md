@@ -1,3 +1,4 @@
+<img width="2100" height="600" alt="ABL1_pLDDT_plot" src="https://github.com/user-attachments/assets/191c3af9-1629-491a-a36f-68f07a53cfe5" />
 # ABL1 Gene Analysis
 
 ## Overview
@@ -46,7 +47,8 @@ GAAGCTGGTGGGCTGCAAATCCAAGAAGGGGCTGTCCTCGTCCTCCAGCTGTTATCTGGAAGAAGCCCTT]
 - Accession: AF-P00519-F1-v6
 - Average pLDDT: 63.38
 
-![pLDDT Plot](ABL1_pLDDT_plot.png)
+<img width="2100" height="600" alt="ABL1_pLDDT_plot" src="https://github.com/user-attachments/assets/9f548890-193c-4656-b18d-d277cfb9efb3" />
+
 
 ---
 
@@ -72,7 +74,8 @@ GAAGCTGGTGGGCTGCAAATCCAAGAAGGGGCTGTCCTCGTCCTCCAGCTGTTATCTGGAAGAAGCCCTT]
 | 6 | -9.39 |
 | 9 | -9.50 |
 
-![Docking Visualization](docking_visualization.png)
+<img width="1123" height="702" alt="ABL1_pLDDT_plot png1" src="https://github.com/user-attachments/assets/e5cb3414-8c32-471e-9694-0fc1a91c3a74" />
+
 
 ---
 
